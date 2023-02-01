@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,100,155"/>
+<area shape="rect" id="node2" href="$protocol_r_c_v_i_video_canvas_delage-p.html" title=" " alt="" coords="169,5,360,31"/>
+<area shape="rect" id="node3" href="$protocol_rcv_annotation_edit_delegate-p.html" title=" " alt="" coords="165,55,364,80"/>
+<area shape="rect" id="node4" href="$protocol_rcv_annotation_edit_view-p.html" title=" " alt="" coords="177,104,353,129"/>
+<area shape="rect" id="node5" href="$protocol_rcv_annotation_view_delegate-p.html" title=" " alt="" coords="162,153,367,179"/>
+<area shape="rect" id="node6" href="$protocol_rcv_custom_video_view_delegate-p.html" title=" " alt="" coords="153,203,376,228"/>
+<area shape="rect" id="node7" href="$protocol_rcv_screen_share_service_delegate-p.html" title=" " alt="" coords="148,252,381,277"/>
+</map>
