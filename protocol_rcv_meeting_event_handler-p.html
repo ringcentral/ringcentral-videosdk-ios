@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.9.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -113,7 +113,7 @@ $(document).ready(function(){initNavTree('protocol_rcv_meeting_event_handler-p.h
 <div class="dynheader">
 Collaboration diagram for &lt;RcvMeetingEventHandler&gt;:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="protocol_rcv_meeting_event_handler-p__coll__graph.svg" width="280" height="220"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="protocol_rcv_meeting_event_handler-p__coll__graph.svg" width="286" height="264"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -139,6 +139,12 @@ Instance Methods</h2></td></tr>
 <tr class="separator:a4b5dbdcb84fd08bd59618f0c98ff4e38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aefdacedaa99e03c157a85a527163e4b7"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_rcv_meeting_event_handler-p.html#aefdacedaa99e03c157a85a527163e4b7">onClosedCaptionsStateChanged:</a></td></tr>
 <tr class="separator:aefdacedaa99e03c157a85a527163e4b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a355b041a9fbdbe8ea584f6b337ec1eaa"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_rcv_meeting_event_handler-p.html#a355b041a9fbdbe8ea584f6b337ec1eaa">onLiveTranscriptionDataChanged:type:</a></td></tr>
+<tr class="separator:a355b041a9fbdbe8ea584f6b337ec1eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e50507c078e79c6f533f2ec5a061df0"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_rcv_meeting_event_handler-p.html#a8e50507c078e79c6f533f2ec5a061df0">onLiveTranscriptionSettingChanged:</a></td></tr>
+<tr class="separator:a8e50507c078e79c6f533f2ec5a061df0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8711ab744346321268599d77136b48f3"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_rcv_meeting_event_handler-p.html#a8711ab744346321268599d77136b48f3">onLiveTranscriptionHistoryChanged:type:</a></td></tr>
+<tr class="separator:a8711ab744346321268599d77136b48f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <b><a class="el" href="protocol_rcv_meeting_event_handler-p.html">RcvMeetingEventHandler</a></b> class is an interface class to send the meeting-level event callbacks to the application. The application inherits the methods of this interface class to get those event callbacks. </p>
@@ -253,6 +259,104 @@ Instance Methods</h2></td></tr>
   </dd>
 </dl>
 <dl class="section see"><dt>See also</dt><dd><a class="el" href="_rcv_closed_captions_state_8h.html#a9970bfb02e320b66806496da9f377da7">RcvClosedCaptionsState</a> </dd></dl>
+
+</div>
+</div>
+<a id="a355b041a9fbdbe8ea584f6b337ec1eaa" name="a355b041a9fbdbe8ea584f6b337ec1eaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a355b041a9fbdbe8ea584f6b337ec1eaa">&#9670;&#160;</a></span>onLiveTranscriptionDataChanged:type:</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) onLiveTranscriptionDataChanged: </td>
+          <td></td>
+          <td class="paramtype">(nullable <a class="el" href="interface_rcv_live_transcription_data.html">RcvLiveTranscriptionData</a> *)&#160;</td>
+          <td class="paramname"><em>data</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">type:</td>
+          <td></td>
+          <td class="paramtype">(<a class="el" href="_rcv_live_transcription_data_type_8h.html#a8cdfce81a61e6be4b665d68bd0a2d131">RcvLiveTranscriptionDataType</a>)&#160;</td>
+          <td class="paramname"><em>type</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Occurs when the meeting live transcriptions data are received.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>The live transcriptions data </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section see"><dt>See also</dt><dd>Rcvlive_transcription_data </dd></dl>
+
+</div>
+</div>
+<a id="a8711ab744346321268599d77136b48f3" name="a8711ab744346321268599d77136b48f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8711ab744346321268599d77136b48f3">&#9670;&#160;</a></span>onLiveTranscriptionHistoryChanged:type:</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) onLiveTranscriptionHistoryChanged: </td>
+          <td></td>
+          <td class="paramtype">(nonnull NSArray&lt; <a class="el" href="interface_rcv_live_transcription_data.html">RcvLiveTranscriptionData</a> * &gt; *)&#160;</td>
+          <td class="paramname"><em>data</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">type:</td>
+          <td></td>
+          <td class="paramtype">(<a class="el" href="_rcv_live_transcription_update_history_type_8h.html#aa73e9fe49685a12cf1e2499fc70000cb">RcvLiveTranscriptionUpdateHistoryType</a>)&#160;</td>
+          <td class="paramname"><em>type</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Occurs when the meeting live transcriptions history data are received.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>The live transcriptions history data </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section see"><dt>See also</dt><dd>Rcvlive_transcription_data </dd></dl>
+
+</div>
+</div>
+<a id="a8e50507c078e79c6f533f2ec5a061df0" name="a8e50507c078e79c6f533f2ec5a061df0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e50507c078e79c6f533f2ec5a061df0">&#9670;&#160;</a></span>onLiveTranscriptionSettingChanged:</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) onLiveTranscriptionSettingChanged: </td>
+          <td></td>
+          <td class="paramtype">(nullable <a class="el" href="interface_rcv_live_transcription_setting.html">RcvLiveTranscriptionSetting</a> *)&#160;</td>
+          <td class="paramname"><em>data</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Occurs when the meeting live transcriptions setting data are received.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>The live transcriptions setting data </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section see"><dt>See also</dt><dd>Rcvlive_transcription_setting </dd></dl>
 
 </div>
 </div>

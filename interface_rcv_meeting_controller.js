@@ -7,6 +7,7 @@ var interface_rcv_meeting_controller =
     [ "getClosedCaptionsController", "interface_rcv_meeting_controller.html#a19cc4020eb52c2d8412da1734f1566d9", null ],
     [ "getEndToEndEncryptionState", "interface_rcv_meeting_controller.html#ac6690122673125113d776b1e97763a43", null ],
     [ "getLastError", "interface_rcv_meeting_controller.html#a89993be2442be46c91a5067175cb5111", null ],
+    [ "getLiveTranscriptionsController", "interface_rcv_meeting_controller.html#adb6b40916a68b25d7806f9a5f85da12f", null ],
     [ "getMeetingChatController", "interface_rcv_meeting_controller.html#a88649c12bdf4221435adc16cd6ce0f30", null ],
     [ "getMeetingInfo", "interface_rcv_meeting_controller.html#a3b1d039bbfd425adfc732f11d1e17bd2", null ],
     [ "getMeetingState", "interface_rcv_meeting_controller.html#ac9d9f704eff8365e13849947b796d7a5", null ],
