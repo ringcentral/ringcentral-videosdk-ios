@@ -27,10 +27,9 @@ var NAVTREE =
   [ "RingCentral Video Client SDK for iOS", "index.html", [
     [ "Overview", "index.html#autotoc_md1", null ],
     [ "Prerequisites", "index.html#autotoc_md2", null ],
-    [ "How To Run The Sample Projects", "index.html#autotoc_md3", null ],
-    [ "How To Program Real-time Video With iOS", "index.html#autotoc_md4", null ],
-    [ "Known Issues", "index.html#autotoc_md5", null ],
-    [ "Contact Us", "index.html#autotoc_md6", null ],
+    [ "How To Program Real-time Video With iOS", "index.html#autotoc_md3", null ],
+    [ "Known Issues", "index.html#autotoc_md4", null ],
+    [ "Contact Us", "index.html#autotoc_md5", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -58,8 +57,8 @@ var NAVTREEINDEX =
 "_r_c_v_annotation_8h.html",
 "_rcv_local_audio_stream_state_8h.html#a7005dff4fb9af251d6dd5e82914d62cca7e8a511f3e7a73bf7b5a311a84170a04",
 "annotated.html",
-"interface_rcv_i_participant.html#ae26b9412efc272512799f3ef6149c8f8",
-"interface_rcv_video_controller.html#a0162b3bd6d48a684d3a6c722698affca"
+"interface_rcv_i_participant.html#ae7aafe9f25d3dc21fdc1fd669cddba0d",
+"interface_rcv_video_controller.html#a024976988483d90351caa2752beee3f1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
