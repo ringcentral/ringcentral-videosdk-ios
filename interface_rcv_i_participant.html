@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.9.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.10.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -223,6 +223,8 @@ Instance Methods</h2></td></tr>
 <tr class="separator:ad6fc1ce612338dbaf7568bcf085a60a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abdab73140d63a7ec97444482dafd52f0"><td class="memItemLeft" align="right" valign="top">(BOOL)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_i_participant.html#abdab73140d63a7ec97444482dafd52f0">isOnlyPstnSession</a></td></tr>
 <tr class="separator:abdab73140d63a7ec97444482dafd52f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b04f024291a50e06a145a236b084072"><td class="memItemLeft" align="right" valign="top">(nonnull NSString *)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_i_participant.html#a7b04f024291a50e06a145a236b084072">getRcExtensionId</a></td></tr>
+<tr class="separator:a7b04f024291a50e06a145a236b084072"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e78bf619251372a7861fc236f51efd9"><td class="memItemLeft" align="right" valign="top">(BOOL)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_i_participant.html#a9e78bf619251372a7861fc236f51efd9">getMediaReconnection</a></td></tr>
 <tr class="separator:a9e78bf619251372a7861fc236f51efd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0fdd634fb91e0b26feb5cf89e6e32fe8"><td class="memItemLeft" align="right" valign="top">(int32_t)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_i_participant.html#a0fdd634fb91e0b26feb5cf89e6e32fe8">getNetworkQuality</a></td></tr>
@@ -265,6 +267,8 @@ Instance Methods</h2></td></tr>
 <tr class="separator:a0293989efbb68c749029ffc8b24a31c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a353f5d9ae34c3b28d859856bef0fc88c"><td class="memItemLeft" align="right" valign="top">(<a class="el" href="_rcv_e_echo_leak_type_8h.html#aa88e7704c635e42b57e8f4988fb45a8d">RcvEEchoLeakType</a>)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_i_participant.html#a353f5d9ae34c3b28d859856bef0fc88c">getEchoLeakType</a></td></tr>
 <tr class="separator:a353f5d9ae34c3b28d859856bef0fc88c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41e3f5224c86d42598af578ab1ca2579"><td class="memItemLeft" align="right" valign="top">(BOOL)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_i_participant.html#a41e3f5224c86d42598af578ab1ca2579">isWebinarRoom</a></td></tr>
+<tr class="separator:a41e3f5224c86d42598af578ab1ca2579"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>IParticipant interface used to manage Participant </p>
@@ -754,6 +758,23 @@ Instance Methods</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">- (nonnull NSString *) getRcAccountId </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7b04f024291a50e06a145a236b084072" name="a7b04f024291a50e06a145a236b084072"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b04f024291a50e06a145a236b084072">&#9670;&#160;</a></span>getRcExtensionId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (nonnull NSString *) getRcExtensionId </td>
           <td></td>
           <td class="paramname"></td>
           <td></td>
@@ -1315,6 +1336,23 @@ Instance Methods</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">- (BOOL) isWaitingRoomUmiBeforeBR </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a41e3f5224c86d42598af578ab1ca2579" name="a41e3f5224c86d42598af578ab1ca2579"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41e3f5224c86d42598af578ab1ca2579">&#9670;&#160;</a></span>isWebinarRoom</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (BOOL) isWebinarRoom </td>
           <td></td>
           <td class="paramname"></td>
           <td></td>

@@ -16,6 +16,7 @@ var dir_1ceeee35bccc062c3ce6473d03fda0a3 =
     [ "RcvClosedCaptionsData.h", "_rcv_closed_captions_data_8h.html", "_rcv_closed_captions_data_8h" ],
     [ "RcvClosedCaptionsState.h", "_rcv_closed_captions_state_8h.html", "_rcv_closed_captions_state_8h" ],
     [ "RcvEEchoLeakType.h", "_rcv_e_echo_leak_type_8h.html", "_rcv_e_echo_leak_type_8h" ],
+    [ "RcvEJoinMeetingType.h", "_rcv_e_join_meeting_type_8h.html", "_rcv_e_join_meeting_type_8h" ],
     [ "RcvEndToEndEncryptionState.h", "_rcv_end_to_end_encryption_state_8h.html", "_rcv_end_to_end_encryption_state_8h" ],
     [ "RcvEngine.h", "_rcv_engine_8h.html", "_rcv_engine_8h" ],
     [ "RcvEngineEventHandler.h", "_rcv_engine_event_handler_8h.html", "_rcv_engine_event_handler_8h" ],
