@@ -51,5 +51,6 @@ var searchData=
   ['iswaitingroomenabled_48',['isWaitingRoomEnabled',['../interface_rcv_instant_meeting_settings.html#a6d1f442ff0ba063cd3c2fb4e41b96b6c',1,'RcvInstantMeetingSettings::isWaitingRoomEnabled()'],['../interface_rcv_personal_meeting_settings.html#af256ed83421f5aa9c6be4f9cf1a33f79',1,'RcvPersonalMeetingSettings::isWaitingRoomEnabled()'],['../interface_rcv_schedule_meeting_settings.html#a517f153247bdc1474ef308996e94bcc4',1,'RcvScheduleMeetingSettings::isWaitingRoomEnabled()']]],
   ['iswaitingroomumi_49',['isWaitingRoomUmi',['../interface_rcv_i_participant.html#adde69ec39ba00bf144cc944aa3a8bc85',1,'RcvIParticipant']]],
   ['iswaitingroomumibeforebr_50',['isWaitingRoomUmiBeforeBR',['../interface_rcv_i_participant.html#a618fb58e55fa85a077be8611213b0015',1,'RcvIParticipant']]],
-  ['iswhiteboardsharing_51',['isWhiteBoardSharing',['../interface_rcv_i_participant.html#af48e25ee1e98c873c2773dbdeb67ca11',1,'RcvIParticipant']]]
+  ['iswebinarroom_51',['isWebinarRoom',['../interface_rcv_i_participant.html#a41e3f5224c86d42598af578ab1ca2579',1,'RcvIParticipant']]],
+  ['iswhiteboardsharing_52',['isWhiteBoardSharing',['../interface_rcv_i_participant.html#af48e25ee1e98c873c2773dbdeb67ca11',1,'RcvIParticipant']]]
 ];
