@@ -1,6 +1,6 @@
 <map id="RcvMetalVideoView" name="RcvMetalVideoView">
-<area shape="rect" id="node1" title=" " alt="" coords="41,359,181,436"/>
-<area shape="rect" id="node2" href="$interface_rcv_base_video_view.html" title=" " alt="" coords="42,131,181,311"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,5,71,83"/>
-<area shape="rect" id="node4" title=" " alt="" coords="95,5,275,83"/>
+<area shape="rect" id="node1" title=" " coords="43,313,187,353"/>
+<area shape="rect" id="node2" href="$interface_rcv_base_video_view.html" title=" " coords="43,93,186,265"/>
+<area shape="rect" id="node3" title=" " coords="5,5,75,45"/>
+<area shape="rect" id="node4" title=" " coords="99,5,283,45"/>
 </map>
