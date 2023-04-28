@@ -1,11 +1,11 @@
 <map id="rcvsdk/ios/rcvsdk/RcvEngine.h" name="rcvsdk/ios/rcvsdk/RcvEngine.h">
-<area shape="rect" id="node1" title=" " coords="227,5,431,31"/>
-<area shape="rect" id="node2" title=" " coords="297,225,463,251"/>
-<area shape="rect" id="node3" href="$_rcv_audio_processor_8h.html" title=" " coords="34,152,182,177"/>
-<area shape="rect" id="node4" href="$_rcv_engine_event_handler_8h.html" title=" " coords="150,79,325,104"/>
-<area shape="rect" id="node6" href="$_rcv_error_code_type_8h.html" title=" " coords="349,79,493,104"/>
-<area shape="rect" id="node7" href="$_rcv_video_canvas_8h.html" title=" " coords="518,79,653,104"/>
-<area shape="rect" id="node9" href="$_rcv_video_processor_8h.html" title=" " coords="677,152,825,177"/>
-<area shape="rect" id="node5" href="$_rcv_leave_reason_8h.html" title=" " coords="258,152,395,177"/>
-<area shape="rect" id="node8" href="$_rcv_render_mode_8h.html" title=" " coords="521,152,652,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="223,5,427,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="292,226,457,252"/>
+<area shape="rect" id="node3" href="$_rcv_audio_processor_8h.html" title=" " alt="" coords="33,153,180,178"/>
+<area shape="rect" id="node4" href="$_rcv_engine_event_handler_8h.html" title=" " alt="" coords="147,79,322,105"/>
+<area shape="rect" id="node6" href="$_rcv_error_code_type_8h.html" title=" " alt="" coords="345,79,489,105"/>
+<area shape="rect" id="node7" href="$_rcv_video_canvas_8h.html" title=" " alt="" coords="513,79,647,105"/>
+<area shape="rect" id="node9" href="$_rcv_video_processor_8h.html" title=" " alt="" coords="670,153,817,178"/>
+<area shape="rect" id="node5" href="$_rcv_leave_reason_8h.html" title=" " alt="" coords="254,153,391,178"/>
+<area shape="rect" id="node8" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="516,153,646,178"/>
 </map>
