@@ -1,5 +1,7 @@
 <map id="rcvsdk/ios/rcvsdk/RcvCaptureDevicePosition.h" name="rcvsdk/ios/rcvsdk/RcvCaptureDevicePosition.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,303,31"/>
-<area shape="rect" id="node2" href="$_rcv_sharing_controller_8h.html" title=" " alt="" coords="23,79,285,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="58,153,250,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,303,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_sharing_controller_8h.html" title=" " alt="" coords="23,79,285,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,46,157,79,151,79,151,46"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="58,153,250,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,119,157,152,151,152,151,119"/>
 </map>

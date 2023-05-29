@@ -5,7 +5,7 @@ var protocol_rcv_meeting_event_handler_p =
     [ "onClosedCaptionsData:", "protocol_rcv_meeting_event_handler-p.html#a4b5dbdcb84fd08bd59618f0c98ff4e38", null ],
     [ "onClosedCaptionsStateChanged:", "protocol_rcv_meeting_event_handler-p.html#aefdacedaa99e03c157a85a527163e4b7", null ],
     [ "onLiveTranscriptionDataChanged:type:", "protocol_rcv_meeting_event_handler-p.html#a355b041a9fbdbe8ea584f6b337ec1eaa", null ],
-    [ "onLiveTranscriptionHistoryChanged:type:", "protocol_rcv_meeting_event_handler-p.html#a8711ab744346321268599d77136b48f3", null ],
+    [ "onLiveTranscriptionHistoryChanged:", "protocol_rcv_meeting_event_handler-p.html#ab528cdbb282ea6d6e6c09d7798ab4cf6", null ],
     [ "onLiveTranscriptionSettingChanged:", "protocol_rcv_meeting_event_handler-p.html#a8e50507c078e79c6f533f2ec5a061df0", null ],
     [ "onMeetingApiExecuted:errorCode:result:", "protocol_rcv_meeting_event_handler-p.html#af90eefcdd81555be7dfe6c1ddee3aaf5", null ],
     [ "onMeetingEncryptionStateChanged:", "protocol_rcv_meeting_event_handler-p.html#a990af8724d6ec80b5d61f3adb2c7ae17", null ],

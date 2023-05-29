@@ -18,7 +18,7 @@ var searchData=
   ['oninitialize_3aframeheight_3aconsumer_3a_15',['onInitialize:frameHeight:consumer:',['../protocol_rcv_video_processor-p.html#ac3782eb0b7666d3468b4fc6368d1d4ea',1,'RcvVideoProcessor-p']]],
   ['oninitialize_3anumchannels_3aconsumer_3a_16',['onInitialize:numChannels:consumer:',['../protocol_rcv_audio_processor-p.html#a90770c923462ef1ff729d87cd977bffd',1,'RcvAudioProcessor-p']]],
   ['onlivetranscriptiondatachanged_3atype_3a_17',['onLiveTranscriptionDataChanged:type:',['../protocol_rcv_meeting_event_handler-p.html#a355b041a9fbdbe8ea584f6b337ec1eaa',1,'RcvMeetingEventHandler-p']]],
-  ['onlivetranscriptionhistorychanged_3atype_3a_18',['onLiveTranscriptionHistoryChanged:type:',['../protocol_rcv_meeting_event_handler-p.html#a8711ab744346321268599d77136b48f3',1,'RcvMeetingEventHandler-p']]],
+  ['onlivetranscriptionhistorychanged_3a_18',['onLiveTranscriptionHistoryChanged:',['../protocol_rcv_meeting_event_handler-p.html#ab528cdbb282ea6d6e6c09d7798ab4cf6',1,'RcvMeetingEventHandler-p']]],
   ['onlivetranscriptionsettingchanged_3a_19',['onLiveTranscriptionSettingChanged:',['../protocol_rcv_meeting_event_handler-p.html#a8e50507c078e79c6f533f2ec5a061df0',1,'RcvMeetingEventHandler-p']]],
   ['onlocalaudiomutechanged_3a_20',['onLocalAudioMuteChanged:',['../protocol_rcv_audio_event_handler-p.html#a69c3f5fb8b357a88bf1aa8605682f235',1,'RcvAudioEventHandler-p']]],
   ['onlocalaudiostats_3a_21',['onLocalAudioStats:',['../protocol_rcv_meeting_statistic_event_handler-p.html#a6b5e67dc2d078b95947d32c2e0452eee',1,'RcvMeetingStatisticEventHandler-p']]],

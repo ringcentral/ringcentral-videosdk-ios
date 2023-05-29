@@ -1,6 +1,11 @@
 <map id="rcvsdk/ios/rcvsdk/RcvLeaveReason.h" name="rcvsdk/ios/rcvsdk/RcvLeaveReason.h">
-<area shape="rect" id="node1" title=" " alt="" coords="114,5,357,31"/>
-<area shape="rect" id="node2" href="$_rcv_engine_event_handler_8h.html" title=" " alt="" coords="5,79,287,105"/>
-<area shape="rect" id="node4" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="178,226,370,252"/>
-<area shape="rect" id="node3" href="$_rcv_engine_8h.html" title=" " alt="" coords="34,153,237,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,5,357,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_engine_event_handler_8h.html" title=" " alt="" coords="5,79,287,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,42,163,81,159,77,207,38"/>
+<area shape="rect" id="Node000004" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="178,226,370,252"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="268,38,286,56,300,78,307,98,309,120,305,162,294,199,283,227,278,225,289,198,300,161,304,120,301,99,296,80,282,59,264,42"/>
+<area shape="rect" id="Node000003" href="$_rcv_engine_8h.html" title=" " alt="" coords="34,153,237,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,120,140,153,134,152,139,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="195,109,225,127,251,151,262,170,269,190,276,226,271,227,264,192,257,172,247,154,221,131,192,114"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,183,252,223,249,228,171,188"/>
 </map>

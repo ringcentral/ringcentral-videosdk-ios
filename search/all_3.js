@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['delegate_0',['delegate',['../interface_rcv_screen_share_service.html#a51e77c3c30f9e86a0b7c4a4a350028d9',1,'RcvScreenShareService::delegate()'],['../protocol_rcv_annotation_edit_view-p.html#a40b3d1be31c326c07b1b2cc700b42611',1,'RcvAnnotationEditView-p::delegate()'],['../interface_rcv_annotation_view.html#acaa0952e03bc2acf47e0bb0a0af72648',1,'RcvAnnotationView::delegate()'],['../interface_rcv_base_video_view.html#aec28747d126583b82bd2fb7c1dde4c5b',1,'RcvBaseVideoView::delegate()'],['../interface_r_c_video_view.html#a496c5dfcfec03ef22c665bf770b9e519',1,'RCVideoView::delegate()']]],
+  ['delegate_0',['delegate',['../interface_rcv_screen_share_service.html#a51e77c3c30f9e86a0b7c4a4a350028d9',1,'RcvScreenShareService::delegate'],['../protocol_rcv_annotation_edit_view-p.html#a40b3d1be31c326c07b1b2cc700b42611',1,'RcvAnnotationEditView-p::delegate'],['../interface_rcv_annotation_view.html#acaa0952e03bc2acf47e0bb0a0af72648',1,'RcvAnnotationView::delegate'],['../interface_rcv_base_video_view.html#aec28747d126583b82bd2fb7c1dde4c5b',1,'RcvBaseVideoView::delegate'],['../interface_r_c_video_view.html#a496c5dfcfec03ef22c665bf770b9e519',1,'RCVideoView::delegate']]],
   ['denyuser_3a_1',['denyUser:',['../interface_rcv_meeting_user_controller.html#aee6117c24ef07b047f1182f95da6d7bc',1,'RcvMeetingUserController']]],
   ['destroy_2',['destroy',['../interface_rcv_engine.html#a3e011e7c4de70b84dd59d9f9bdb70d43',1,'RcvEngine']]],
   ['detachtrack_3atype_3a_3',['detachTrack:type:',['../protocol_rcv_video_canvas-p.html#a0adaaef54158b73ccc1ce2bae4a19d44',1,'RcvVideoCanvas-p']]],
@@ -22,5 +22,6 @@ var searchData=
   ['disableaudio_19',['disableAudio',['../interface_rcv_audio_controller.html#ab80cbf3e9f3a357c47cb3c379e9e76e5',1,'RcvAudioController']]],
   ['disableendtoendencryption_20',['disableEndToEndEncryption',['../interface_rcv_meeting_controller.html#a355eeade6bff8cc112686851dcdadb5d',1,'RcvMeetingController']]],
   ['disablespeakerphone_21',['disableSpeakerphone',['../interface_rcv_audio_controller.html#a3494a25afb4b2a35f1267cadd8c144e3',1,'RcvAudioController']]],
-  ['displayname_22',['displayName',['../interface_rcv_i_participant.html#a28bd12a3b90ccd7c3529ca282cf64ef5',1,'RcvIParticipant']]]
+  ['disablevirtualbackground_22',['disableVirtualBackground',['../interface_rcv_video_controller.html#af516148d04565456bb523f3fd57cad35',1,'RcvVideoController']]],
+  ['displayname_23',['displayName',['../interface_rcv_i_participant.html#a28bd12a3b90ccd7c3529ca282cf64ef5',1,'RcvIParticipant']]]
 ];

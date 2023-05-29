@@ -1,11 +1,23 @@
 <map id="rcvsdk/ios/rcvsdk/RcvMeetingEventHandler.h" name="rcvsdk/ios/rcvsdk/RcvMeetingEventHandler.h">
-<area shape="rect" id="node1" title=" " alt="" coords="589,5,877,31"/>
-<area shape="rect" id="node2" href="$_rcv_closed_captions_state_8h.html" title=" " alt="" coords="5,79,186,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="651,153,815,178"/>
-<area shape="rect" id="node4" href="$_rcv_end_to_end_encryption_state_8h.html" title=" " alt="" coords="262,79,471,105"/>
-<area shape="rect" id="node5" href="$_rcv_live_transcription_data_type_8h.html" title=" " alt="" coords="495,79,707,105"/>
-<area shape="rect" id="node6" href="$_rcv_live_transcription_update_history_type_8h.html" title=" " alt="" coords="731,79,999,105"/>
-<area shape="rect" id="node7" href="$_rcv_meeting_api_execute_result_8h.html" title=" " alt="" coords="1023,79,1230,105"/>
-<area shape="rect" id="node8" href="$_rcv_meeting_state_8h.html" title=" " alt="" coords="1254,79,1388,105"/>
-<area shape="rect" id="node9" href="$_rcv_recording_state_8h.html" title=" " alt="" coords="1412,79,1558,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,5,745,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_closed_captions_state_8h.html" title=" " alt="" coords="5,79,186,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,34,196,79,195,74,514,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="519,153,683,178"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="457,28,393,35,332,45,282,61,264,70,251,81,246,92,251,103,267,116,290,126,354,143,430,153,504,159,503,164,429,158,353,148,288,131,264,120,247,106,241,92,247,77,261,66,280,56,330,40,392,30,457,23"/>
+<area shape="rect" id="Node000004" href="$_rcv_end_to_end_encryption_state_8h.html" title=" " alt="" coords="262,79,471,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="562,34,421,77,419,72,560,29"/>
+<area shape="rect" id="Node000005" href="$_rcv_live_transcription_data_type_8h.html" title=" " alt="" coords="495,79,707,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="604,31,604,64,598,64,598,31"/>
+<area shape="rect" id="Node000006" href="$_rcv_meeting_api_execute_result_8h.html" title=" " alt="" coords="731,79,938,105"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="641,29,781,72,780,77,640,34"/>
+<area shape="rect" id="Node000007" href="$_rcv_meeting_state_8h.html" title=" " alt="" coords="962,79,1096,105"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="674,29,948,74,947,80,673,34"/>
+<area shape="rect" id="Node000008" href="$_rcv_recording_state_8h.html" title=" " alt="" coords="1120,79,1266,105"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="709,29,1105,76,1105,81,708,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,103,505,148,504,153,181,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="407,103,548,145,546,150,405,108"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="604,105,604,138,598,138,598,105"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="795,108,655,150,654,145,794,103"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="962,107,689,152,688,147,962,102"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="1120,106,1108,107,698,156,697,151,1107,102,1119,101"/>
 </map>

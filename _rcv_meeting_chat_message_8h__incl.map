@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvMeetingChatMessage.h" name="rcvsdk/ios/rcvsdk/RcvMeetingChatMessage.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,296,31"/>
-<area shape="rect" id="node2" href="$_rcv_chat_type_8h.html" title=" " alt="" coords="48,79,160,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="68,153,233,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,296,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_chat_type_8h.html" title=" " alt="" coords="48,79,160,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,33,122,68,118,65,141,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,153,233,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="159,31,172,64,175,84,174,105,164,139,159,138,169,104,170,85,166,65,154,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,103,137,138,132,141,109,106"/>
 </map>

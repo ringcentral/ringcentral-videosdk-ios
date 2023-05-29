@@ -34,10 +34,8 @@ var dir_1ceeee35bccc062c3ce6473d03fda0a3 =
     [ "RcvLiveTranscriptionData.h", "_rcv_live_transcription_data_8h.html", "_rcv_live_transcription_data_8h" ],
     [ "RcvLiveTranscriptionDataType.h", "_rcv_live_transcription_data_type_8h.html", "_rcv_live_transcription_data_type_8h" ],
     [ "RcvLiveTranscriptionDownloadCopy.h", "_rcv_live_transcription_download_copy_8h.html", "_rcv_live_transcription_download_copy_8h" ],
-    [ "RcvLiveTranscriptionPhraseId.h", "_rcv_live_transcription_phrase_id_8h.html", "_rcv_live_transcription_phrase_id_8h" ],
     [ "RcvLiveTranscriptionsController.h", "_rcv_live_transcriptions_controller_8h.html", "_rcv_live_transcriptions_controller_8h" ],
     [ "RcvLiveTranscriptionSetting.h", "_rcv_live_transcription_setting_8h.html", "_rcv_live_transcription_setting_8h" ],
-    [ "RcvLiveTranscriptionUpdateHistoryType.h", "_rcv_live_transcription_update_history_type_8h.html", "_rcv_live_transcription_update_history_type_8h" ],
     [ "RcvLiveTranscriptionVisibility.h", "_rcv_live_transcription_visibility_8h.html", "_rcv_live_transcription_visibility_8h" ],
     [ "RcvLocalAudioError.h", "_rcv_local_audio_error_8h.html", "_rcv_local_audio_error_8h" ],
     [ "RcvLocalAudioMuteReason.h", "_rcv_local_audio_mute_reason_8h.html", "_rcv_local_audio_mute_reason_8h" ],
@@ -91,5 +89,7 @@ var dir_1ceeee35bccc062c3ce6473d03fda0a3 =
     [ "RcvVideoDeviceManager.h", "_rcv_video_device_manager_8h.html", "_rcv_video_device_manager_8h" ],
     [ "RcvVideoEventHandler.h", "_rcv_video_event_handler_8h.html", "_rcv_video_event_handler_8h" ],
     [ "RcvVideoProcessor.h", "_rcv_video_processor_8h.html", "_rcv_video_processor_8h" ],
+    [ "RcvVirtualBackgroundConfig.h", "_rcv_virtual_background_config_8h.html", "_rcv_virtual_background_config_8h" ],
+    [ "RcvVirtualBackgroundType.h", "_rcv_virtual_background_type_8h.html", "_rcv_virtual_background_type_8h" ],
     [ "RcvWaitingRoomMode.h", "_rcv_waiting_room_mode_8h.html", "_rcv_waiting_room_mode_8h" ]
 ];

@@ -1,7 +1,14 @@
 <map id="rcvsdk/ios/rcvsdk/RcvSharingEventHandler.h" name="rcvsdk/ios/rcvsdk/RcvSharingEventHandler.h">
-<area shape="rect" id="node1" title=" " alt="" coords="100,5,385,31"/>
-<area shape="rect" id="node2" href="$_rcv_sharing_settings_8h.html" title=" " alt="" coords="5,79,154,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="160,153,324,178"/>
-<area shape="rect" id="node4" href="$_rcv_sharing_state_8h.html" title=" " alt="" coords="229,79,360,105"/>
-<area shape="rect" id="node5" href="$_rcv_sharing_type_8h.html" title=" " alt="" coords="383,79,512,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,5,385,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_sharing_settings_8h.html" title=" " alt="" coords="5,79,154,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,34,121,75,119,70,214,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="160,153,324,178"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="237,33,223,65,219,85,219,104,231,138,226,140,214,105,213,84,218,63,232,30"/>
+<area shape="rect" id="Node000004" href="$_rcv_sharing_state_8h.html" title=" " alt="" coords="229,79,360,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,30,279,65,275,69,249,33"/>
+<area shape="rect" id="Node000005" href="$_rcv_sharing_type_8h.html" title=" " alt="" coords="383,79,512,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="278,29,400,71,398,76,276,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,103,202,144,200,149,106,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="288,106,262,142,257,139,283,103"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="414,108,292,150,290,145,412,103"/>
 </map>

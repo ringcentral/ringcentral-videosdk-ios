@@ -1,6 +1,11 @@
 <map id="rcvsdk/ios/rcvsdk/RcvLiveTranscriptionsController.h" name="rcvsdk/ios/rcvsdk/RcvLiveTranscriptionsController.h">
-<area shape="rect" id="node1" title=" " alt="" coords="123,5,447,31"/>
-<area shape="rect" id="node2" href="$_rcv_live_transcription_download_copy_8h.html" title=" " alt="" coords="5,79,248,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="203,153,367,178"/>
-<area shape="rect" id="node4" href="$_rcv_live_transcription_visibility_8h.html" title=" " alt="" coords="323,79,525,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,5,447,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_live_transcription_download_copy_8h.html" title=" " alt="" coords="5,79,248,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,34,168,75,166,70,257,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="203,153,367,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="288,31,288,138,283,138,283,31"/>
+<area shape="rect" id="Node000004" href="$_rcv_live_transcription_visibility_8h.html" title=" " alt="" coords="323,79,525,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,29,388,69,386,74,307,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,103,246,144,244,149,152,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="402,108,323,148,321,143,399,103"/>
 </map>

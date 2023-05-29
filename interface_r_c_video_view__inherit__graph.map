@@ -1,4 +1,5 @@
 <map id="RCVideoView" name="RCVideoView">
-<area shape="rect" id="node1" title=" " alt="" coords="5,132,177,405"/>
-<area shape="rect" id="node2" title=" " alt="" coords="59,5,123,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,167,444"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,114,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,85,89,119,83,119,83,85"/>
 </map>

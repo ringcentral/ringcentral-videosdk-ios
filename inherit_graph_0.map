@@ -1,9 +1,15 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,129,100,155"/>
-<area shape="rect" id="node2" href="$protocol_r_c_v_i_video_canvas_delage-p.html" title=" " alt="" coords="169,5,359,31"/>
-<area shape="rect" id="node3" href="$protocol_rcv_annotation_edit_delegate-p.html" title=" " alt="" coords="165,55,363,80"/>
-<area shape="rect" id="node4" href="$protocol_rcv_annotation_edit_view-p.html" title=" " alt="" coords="176,104,352,130"/>
-<area shape="rect" id="node5" href="$protocol_rcv_annotation_view_delegate-p.html" title=" " alt="" coords="162,153,366,179"/>
-<area shape="rect" id="node6" href="$protocol_rcv_custom_video_view_delegate-p.html" title=" " alt="" coords="153,203,375,228"/>
-<area shape="rect" id="node7" href="$protocol_rcv_screen_share_service_delegate-p.html" title=" " alt="" coords="148,252,380,278"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,129,100,155"/>
+<area shape="rect" id="Node000001" href="$protocol_r_c_v_i_video_canvas_delage-p.html" title=" " alt="" coords="169,5,359,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="68,115,101,76,123,56,146,40,170,29,173,34,149,44,126,60,105,80,73,119"/>
+<area shape="rect" id="Node000002" href="$protocol_rcv_annotation_edit_delegate-p.html" title=" " alt="" coords="165,55,363,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="85,119,147,89,182,78,184,83,149,94,88,124"/>
+<area shape="rect" id="Node000003" href="$protocol_rcv_annotation_edit_view-p.html" title=" " alt="" coords="176,104,352,130"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="114,132,175,125,176,130,115,137"/>
+<area shape="rect" id="Node000004" href="$protocol_rcv_annotation_view_delegate-p.html" title=" " alt="" coords="162,153,366,179"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="115,146,162,152,161,157,114,152"/>
+<area shape="rect" id="Node000005" href="$protocol_rcv_custom_video_view_delegate-p.html" title=" " alt="" coords="153,203,375,228"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="89,160,149,189,185,200,183,205,147,194,86,165"/>
+<area shape="rect" id="Node000006" href="$protocol_rcv_screen_share_service_delegate-p.html" title=" " alt="" coords="148,252,380,278"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="73,165,105,204,126,223,149,238,173,249,171,254,146,243,123,227,101,208,69,169"/>
 </map>

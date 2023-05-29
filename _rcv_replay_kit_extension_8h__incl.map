@@ -1,6 +1,9 @@
 <map id="rcvsdk/ios/RcvReplayKitExtension/RcvReplayKitExtension.h" name="rcvsdk/ios/RcvReplayKitExtension/RcvReplayKitExtension.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,384,31"/>
-<area shape="rect" id="node2" href="$_rcv_r_p_screen_share_service_8h.html" title=" " alt="" coords="97,79,292,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="22,153,186,178"/>
-<area shape="rect" id="node4" title=" " alt="" coords="210,153,360,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,384,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_r_p_screen_share_service_8h.html" title=" " alt="" coords="97,79,292,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,31,197,64,192,64,192,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,153,186,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,107,132,146,129,141,177,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="210,153,360,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="212,103,260,141,257,146,208,107"/>
 </map>

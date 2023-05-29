@@ -1,5 +1,6 @@
 var interface_rcv_video_controller =
 [
+    [ "disableVirtualBackground", "interface_rcv_video_controller.html#af516148d04565456bb523f3fd57cad35", null ],
     [ "isMuted", "interface_rcv_video_controller.html#aee39a9b95423574b734cc90265fe64f3", null ],
     [ "isPreviewMode", "interface_rcv_video_controller.html#a6d17e73b3c860118c41cd2f4bdb4493e", null ],
     [ "muteAllRemoteVideoStreams:", "interface_rcv_video_controller.html#aa87a3268136ca41f6288fa045268421a", null ],
@@ -15,6 +16,7 @@ var interface_rcv_video_controller =
     [ "startPreview:", "interface_rcv_video_controller.html#a5a9c54c04345034c5fe2d84acd7342ec", null ],
     [ "stopPreview", "interface_rcv_video_controller.html#afbd1a3313160fe45774517e6a28cddb2", null ],
     [ "switchCamera", "interface_rcv_video_controller.html#a0162b3bd6d48a684d3a6c722698affca", null ],
+    [ "switchVirtualBackground:config:", "interface_rcv_video_controller.html#a82a41c6ee1e28091b13e794022f26aa5", null ],
     [ "unmuteAllRemoteVideoStreams", "interface_rcv_video_controller.html#af8594e3438ee50f96796038c00c3375f", null ],
     [ "unmuteLocalVideoStream", "interface_rcv_video_controller.html#ac60df55b91b4c275a75778fd9df73324", null ],
     [ "unmuteRemoteVideoStream:", "interface_rcv_video_controller.html#aabc61b870b2be6c6dbd78c9d56accc13", null ],

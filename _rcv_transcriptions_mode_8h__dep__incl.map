@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvTranscriptionsMode.h" name="rcvsdk/ios/rcvsdk/RcvTranscriptionsMode.h">
-<area shape="rect" id="node1" title=" " alt="" coords="86,5,364,31"/>
-<area shape="rect" id="node2" href="$_rcv_meeting_bridge_info_8h.html" title=" " alt="" coords="5,79,274,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="129,153,321,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,5,364,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_meeting_bridge_info_8h.html" title=" " alt="" coords="5,79,274,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,43,155,81,152,77,198,39"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="129,153,321,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="257,38,275,56,289,78,290,101,280,122,263,140,246,154,242,150,260,136,276,119,285,100,284,80,271,59,253,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,112,212,150,209,154,163,116"/>
 </map>

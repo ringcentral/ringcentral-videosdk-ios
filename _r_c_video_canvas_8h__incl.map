@@ -1,8 +1,18 @@
 <map id="rcvsdk/ios/rcvsdk/RCVideoCanvas.h" name="rcvsdk/ios/rcvsdk/RCVideoCanvas.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,243,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="149,226,313,252"/>
-<area shape="rect" id="node3" title=" " alt="" coords="47,153,143,178"/>
-<area shape="rect" id="node4" href="$_rcv_base_video_view_8h.html" title=" " alt="" coords="107,79,253,105"/>
-<area shape="rect" id="node6" href="$_rcv_video_canvas_8h.html" title=" " alt="" coords="277,79,411,105"/>
-<area shape="rect" id="node5" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="218,153,348,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,243,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="149,226,313,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,33,79,60,46,97,35,118,28,138,28,158,37,177,56,197,80,212,107,223,135,230,133,235,105,228,78,217,53,201,32,180,23,159,23,137,30,115,42,94,75,57,106,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="47,153,143,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,33,107,54,97,80,94,110,94,138,89,138,88,109,92,78,102,52,114,30"/>
+<area shape="rect" id="Node000004" href="$_rcv_base_video_view_8h.html" title=" " alt="" coords="107,79,253,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,30,164,65,159,69,131,33"/>
+<area shape="rect" id="Node000006" href="$_rcv_video_canvas_8h.html" title=" " alt="" coords="277,79,411,105"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="162,29,294,71,292,77,161,34"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="186,104,208,177,222,211,217,213,203,179,180,106"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="167,107,122,145,118,141,164,103"/>
+<area shape="rect" id="Node000005" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="218,153,348,178"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="199,103,255,142,252,146,196,107"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="276,180,250,216,246,213,272,177"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="354,104,367,139,369,160,362,180,337,206,305,223,302,218,334,202,358,177,363,159,362,140,349,106"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="336,107,304,143,300,140,332,103"/>
 </map>

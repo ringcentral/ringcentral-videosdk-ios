@@ -11,7 +11,6 @@ var hierarchy =
       [ "RcvIParticipant", "interface_rcv_i_participant.html", null ],
       [ "RcvInstantMeetingSettings", "interface_rcv_instant_meeting_settings.html", null ],
       [ "RcvLiveTranscriptionData", "interface_rcv_live_transcription_data.html", null ],
-      [ "RcvLiveTranscriptionPhraseId", "interface_rcv_live_transcription_phrase_id.html", null ],
       [ "RcvLiveTranscriptionSetting", "interface_rcv_live_transcription_setting.html", null ],
       [ "RcvLiveTranscriptionsController", "interface_rcv_live_transcriptions_controller.html", null ],
       [ "RcvMeetingBridgeInfo", "interface_rcv_meeting_bridge_info.html", null ],
@@ -62,6 +61,7 @@ var hierarchy =
     [ "<RcvVideoDeviceEventHandler>", "protocol_rcv_video_device_event_handler-p.html", null ],
     [ "<RcvVideoEventHandler>", "protocol_rcv_video_event_handler-p.html", null ],
     [ "<RcvVideoProcessor>", "protocol_rcv_video_processor-p.html", null ],
+    [ "<RcvVirtualBackgroundConfig>", "protocol_rcv_virtual_background_config-p.html", null ],
     [ "<RTCVideoViewDelegate>", null, [
       [ "RcvBaseVideoView", "interface_rcv_base_video_view.html", [
         [ "RcvMetalVideoView", "interface_rcv_metal_video_view.html", null ],

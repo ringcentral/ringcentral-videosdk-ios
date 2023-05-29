@@ -21,5 +21,6 @@ var searchData=
   ['disableaudio_18',['disableAudio',['../interface_rcv_audio_controller.html#ab80cbf3e9f3a357c47cb3c379e9e76e5',1,'RcvAudioController']]],
   ['disableendtoendencryption_19',['disableEndToEndEncryption',['../interface_rcv_meeting_controller.html#a355eeade6bff8cc112686851dcdadb5d',1,'RcvMeetingController']]],
   ['disablespeakerphone_20',['disableSpeakerphone',['../interface_rcv_audio_controller.html#a3494a25afb4b2a35f1267cadd8c144e3',1,'RcvAudioController']]],
-  ['displayname_21',['displayName',['../interface_rcv_i_participant.html#a28bd12a3b90ccd7c3529ca282cf64ef5',1,'RcvIParticipant']]]
+  ['disablevirtualbackground_21',['disableVirtualBackground',['../interface_rcv_video_controller.html#af516148d04565456bb523f3fd57cad35',1,'RcvVideoController']]],
+  ['displayname_22',['displayName',['../interface_rcv_i_participant.html#a28bd12a3b90ccd7c3529ca282cf64ef5',1,'RcvIParticipant']]]
 ];

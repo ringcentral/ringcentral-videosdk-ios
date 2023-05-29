@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvMeetingOptions.h" name="rcvsdk/ios/rcvsdk/RcvMeetingOptions.h">
-<area shape="rect" id="node1" title=" " alt="" coords="19,5,273,31"/>
-<area shape="rect" id="node2" href="$_rcv_e_join_meeting_type_8h.html" title=" " alt="" coords="5,79,169,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="64,153,228,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,5,273,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_e_join_meeting_type_8h.html" title=" " alt="" coords="5,79,169,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,33,108,69,104,66,134,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="64,153,228,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="157,30,171,51,183,78,184,96,181,113,166,142,162,140,176,111,179,95,178,80,167,54,153,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,103,129,139,125,143,95,107"/>
 </map>

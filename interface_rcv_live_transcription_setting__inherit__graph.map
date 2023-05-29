@@ -1,4 +1,5 @@
 <map id="RcvLiveTranscriptionSetting" name="RcvLiveTranscriptionSetting">
-<area shape="rect" id="node1" title=" " alt="" coords="5,132,269,330"/>
-<area shape="rect" id="node2" title=" " alt="" coords="98,5,176,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,259,344"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="97,5,167,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,85,135,119,129,119,129,85"/>
 </map>

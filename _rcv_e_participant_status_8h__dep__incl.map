@@ -1,6 +1,10 @@
 <map id="rcvsdk/ios/rcvsdk/RcvEParticipantStatus.h" name="rcvsdk/ios/rcvsdk/RcvEParticipantStatus.h">
-<area shape="rect" id="node1" title=" " alt="" coords="52,5,325,31"/>
-<area shape="rect" id="node2" href="$_rcv_i_participant_8h.html" title=" " alt="" coords="74,79,303,105"/>
-<area shape="rect" id="node3" href="$_r_c_video_view_8h.html" title=" " alt="" coords="5,153,225,178"/>
-<area shape="rect" id="node4" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="93,226,284,252"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,5,325,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_i_participant_8h.html" title=" " alt="" coords="74,79,303,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,46,191,79,186,79,186,46"/>
+<area shape="rect" id="Node000003" href="$_r_c_video_view_8h.html" title=" " alt="" coords="5,153,225,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,117,129,154,126,150,164,113"/>
+<area shape="rect" id="Node000004" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="93,226,284,252"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="214,114,228,131,239,152,240,174,232,195,205,228,201,224,228,192,235,173,234,153,224,134,210,117"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,187,178,224,174,228,136,190"/>
 </map>

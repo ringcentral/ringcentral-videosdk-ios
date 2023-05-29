@@ -1,6 +1,11 @@
 <map id="rcvsdk/ios/rcvsdk/RcvPersonalMeetingSettings.h" name="rcvsdk/ios/rcvsdk/RcvPersonalMeetingSettings.h">
-<area shape="rect" id="node1" title=" " alt="" coords="83,5,391,31"/>
-<area shape="rect" id="node2" href="$_rcv_only_auth_user_join_mode_8h.html" title=" " alt="" coords="5,79,200,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="155,153,319,178"/>
-<area shape="rect" id="node4" href="$_rcv_waiting_room_mode_8h.html" title=" " alt="" coords="274,79,440,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,5,391,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_only_auth_user_join_mode_8h.html" title=" " alt="" coords="5,79,200,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,34,140,74,137,69,213,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="155,153,319,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="240,31,240,138,235,138,235,31"/>
+<area shape="rect" id="Node000004" href="$_rcv_waiting_room_mode_8h.html" title=" " alt="" coords="274,79,440,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,29,326,69,323,73,256,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,103,203,143,200,148,124,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="338,108,271,147,269,142,335,103"/>
 </map>

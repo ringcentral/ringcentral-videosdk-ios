@@ -1,5 +1,7 @@
 <map id="rcvsdk/ios/rcvsdk/RcvGrantType.h" name="rcvsdk/ios/rcvsdk/RcvGrantType.h">
-<area shape="rect" id="node1" title=" " alt="" coords="15,5,239,31"/>
-<area shape="rect" id="node2" href="$_rcv_oauth_options_8h.html" title=" " alt="" coords="5,79,249,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="31,153,223,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,5,239,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_oauth_options_8h.html" title=" " alt="" coords="5,79,249,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,46,130,79,124,79,124,46"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="31,153,223,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,119,130,152,124,152,124,119"/>
 </map>

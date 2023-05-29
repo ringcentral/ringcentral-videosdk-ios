@@ -1,6 +1,11 @@
 <map id="rcvsdk/ios/rcvsdk/RcvClosedCaptionsState.h" name="rcvsdk/ios/rcvsdk/RcvClosedCaptionsState.h">
-<area shape="rect" id="node1" title=" " alt="" coords="211,5,498,31"/>
-<area shape="rect" id="node2" href="$_rcv_closed_captions_controller_8h.html" title=" " alt="" coords="5,79,317,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="259,153,450,178"/>
-<area shape="rect" id="node4" href="$_rcv_meeting_event_handler_8h.html" title=" " alt="" coords="392,79,679,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5,498,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_closed_captions_controller_8h.html" title=" " alt="" coords="5,79,317,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,39,195,81,193,76,307,34"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="259,153,450,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="357,46,357,152,352,152,352,46"/>
+<area shape="rect" id="Node000004" href="$_rcv_meeting_event_handler_8h.html" title=" " alt="" coords="392,79,679,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,34,506,76,504,81,397,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,108,322,150,320,155,207,113"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="493,113,386,155,384,150,491,108"/>
 </map>

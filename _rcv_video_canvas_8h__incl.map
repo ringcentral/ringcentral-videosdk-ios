@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvVideoCanvas.h" name="rcvsdk/ios/rcvsdk/RcvVideoCanvas.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,247,31"/>
-<area shape="rect" id="node2" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="10,79,141,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="44,153,208,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,247,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="10,79,141,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,33,95,68,90,65,115,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="44,153,208,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="136,30,152,63,156,84,155,105,142,141,137,139,150,104,151,85,147,65,131,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,103,111,139,107,142,82,106"/>
 </map>

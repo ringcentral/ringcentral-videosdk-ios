@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvNqiState.h" name="rcvsdk/ios/rcvsdk/RcvNqiState.h">
-<area shape="rect" id="node1" title=" " alt="" coords="153,5,368,31"/>
-<area shape="rect" id="node2" href="$_rcv_meeting_user_event_handler_8h.html" title=" " alt="" coords="5,79,321,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="165,153,356,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,5,368,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_meeting_user_event_handler_8h.html" title=" " alt="" coords="5,79,321,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,42,181,81,178,76,231,38"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="165,153,356,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="298,37,318,55,335,78,338,90,337,102,325,123,306,141,285,154,282,150,302,136,321,119,332,100,333,90,330,80,315,59,294,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,112,246,150,242,154,190,116"/>
 </map>

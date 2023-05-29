@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvMeetingApiExecuteResult.h" name="rcvsdk/ios/rcvsdk/RcvMeetingApiExecuteResult.h">
-<area shape="rect" id="node1" title=" " alt="" coords="83,5,397,31"/>
-<area shape="rect" id="node2" href="$_rcv_meeting_event_handler_8h.html" title=" " alt="" coords="5,79,293,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="144,153,335,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,5,397,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_meeting_event_handler_8h.html" title=" " alt="" coords="5,79,293,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,42,166,81,163,77,211,38"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="144,153,335,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="273,38,292,55,308,78,309,101,299,122,281,140,262,154,259,150,277,136,294,119,304,100,302,80,288,59,270,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,112,226,150,223,154,174,116"/>
 </map>

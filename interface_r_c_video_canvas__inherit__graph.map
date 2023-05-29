@@ -1,5 +1,7 @@
 <map id="RCVideoCanvas" name="RCVideoCanvas">
-<area shape="rect" id="node1" title=" " alt="" coords="5,237,297,540"/>
-<area shape="rect" id="node2" title=" " alt="" coords="45,58,124,136"/>
-<area shape="rect" id="node3" href="$protocol_rcv_video_canvas-p.html" title=" " alt="" coords="148,5,287,189"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,259,287,624"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="50,75,119,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,154,115,258,110,259,90,155"/>
+<area shape="rect" id="Node000003" href="$protocol_rcv_video_canvas-p.html" title=" " alt="" coords="143,5,274,211"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,225,183,260,178,259,184,224"/>
 </map>

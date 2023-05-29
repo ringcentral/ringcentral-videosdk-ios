@@ -1,6 +1,11 @@
 <map id="rcvsdk/ios/rcvsdk/RcvEndToEndEncryptionState.h" name="rcvsdk/ios/rcvsdk/RcvEndToEndEncryptionState.h">
-<area shape="rect" id="node1" title=" " alt="" coords="149,5,465,31"/>
-<area shape="rect" id="node2" href="$_rcv_meeting_controller_8h.html" title=" " alt="" coords="5,79,270,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="211,153,403,178"/>
-<area shape="rect" id="node4" href="$_rcv_meeting_event_handler_8h.html" title=" " alt="" coords="345,79,632,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,5,465,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_meeting_controller_8h.html" title=" " alt="" coords="5,79,270,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,40,167,81,165,76,264,35"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="211,153,403,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="310,46,310,152,304,152,304,46"/>
+<area shape="rect" id="Node000004" href="$_rcv_meeting_event_handler_8h.html" title=" " alt="" coords="345,79,632,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="352,34,458,76,456,81,350,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,108,279,150,277,155,178,113"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="445,113,339,155,337,150,443,108"/>
 </map>

@@ -1,5 +1,8 @@
 <map id="rcvsdk/ios/rcvsdk/RcvLocalAudioError.h" name="rcvsdk/ios/rcvsdk/RcvLocalAudioError.h">
-<area shape="rect" id="node1" title=" " alt="" coords="102,5,356,31"/>
-<area shape="rect" id="node2" href="$_rcv_audio_event_handler_8h.html" title=" " alt="" coords="5,79,280,105"/>
-<area shape="rect" id="node3" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="134,153,325,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,5,356,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_audio_event_handler_8h.html" title=" " alt="" coords="5,79,280,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,43,159,81,155,77,202,39"/>
+<area shape="rect" id="Node000003" href="$_rcv_s_d_k_8h.html" title=" " alt="" coords="134,153,325,178"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="262,38,280,56,294,78,296,101,286,122,269,140,251,154,247,150,265,136,281,119,291,100,289,80,276,59,258,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,112,216,150,213,154,167,116"/>
 </map>

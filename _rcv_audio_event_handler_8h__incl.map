@@ -1,7 +1,14 @@
 <map id="rcvsdk/ios/rcvsdk/RcvAudioEventHandler.h" name="rcvsdk/ios/rcvsdk/RcvAudioEventHandler.h">
-<area shape="rect" id="node1" title=" " alt="" coords="112,5,387,31"/>
-<area shape="rect" id="node2" href="$_rcv_audio_route_type_8h.html" title=" " alt="" coords="5,79,158,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="167,153,332,178"/>
-<area shape="rect" id="node4" href="$_rcv_local_audio_error_8h.html" title=" " alt="" coords="232,79,379,105"/>
-<area shape="rect" id="node5" href="$_rcv_local_audio_stream_state_8h.html" title=" " alt="" coords="404,79,597,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,5,387,31"/>
+<area shape="rect" id="Node000002" href="$_rcv_audio_route_type_8h.html" title=" " alt="" coords="5,79,158,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,34,124,75,122,70,220,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="167,153,332,178"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="244,33,232,54,223,80,222,95,224,110,236,139,231,141,219,112,216,95,218,78,227,52,239,30"/>
+<area shape="rect" id="Node000004" href="$_rcv_local_audio_error_8h.html" title=" " alt="" coords="232,79,379,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,30,289,65,285,69,257,33"/>
+<area shape="rect" id="Node000005" href="$_rcv_local_audio_stream_state_8h.html" title=" " alt="" coords="404,79,597,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="293,29,445,72,443,77,291,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,103,209,144,207,149,109,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="298,107,270,142,266,139,294,103"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="458,108,307,151,305,146,457,103"/>
 </map>

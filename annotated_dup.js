@@ -23,7 +23,6 @@ var annotated_dup =
     [ "RcvIParticipant", "interface_rcv_i_participant.html", "interface_rcv_i_participant" ],
     [ "<RCVIVideoCanvasDelage>", "protocol_r_c_v_i_video_canvas_delage-p.html", "protocol_r_c_v_i_video_canvas_delage-p" ],
     [ "RcvLiveTranscriptionData", "interface_rcv_live_transcription_data.html", "interface_rcv_live_transcription_data" ],
-    [ "RcvLiveTranscriptionPhraseId", "interface_rcv_live_transcription_phrase_id.html", "interface_rcv_live_transcription_phrase_id" ],
     [ "RcvLiveTranscriptionsController", "interface_rcv_live_transcriptions_controller.html", "interface_rcv_live_transcriptions_controller" ],
     [ "RcvLiveTranscriptionSetting", "interface_rcv_live_transcription_setting.html", "interface_rcv_live_transcription_setting" ],
     [ "<RcvLocalAudioStats>", "protocol_rcv_local_audio_stats-p.html", "protocol_rcv_local_audio_stats-p" ],
@@ -60,5 +59,6 @@ var annotated_dup =
     [ "<RcvVideoDeviceEventHandler>", "protocol_rcv_video_device_event_handler-p.html", "protocol_rcv_video_device_event_handler-p" ],
     [ "RcvVideoDeviceManager", "interface_rcv_video_device_manager.html", "interface_rcv_video_device_manager" ],
     [ "<RcvVideoEventHandler>", "protocol_rcv_video_event_handler-p.html", "protocol_rcv_video_event_handler-p" ],
-    [ "<RcvVideoProcessor>", "protocol_rcv_video_processor-p.html", "protocol_rcv_video_processor-p" ]
+    [ "<RcvVideoProcessor>", "protocol_rcv_video_processor-p.html", "protocol_rcv_video_processor-p" ],
+    [ "<RcvVirtualBackgroundConfig>", "protocol_rcv_virtual_background_config-p.html", "protocol_rcv_virtual_background_config-p" ]
 ];

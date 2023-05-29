@@ -1,7 +1,14 @@
 <map id="rcvsdk/ios/rcvsdk/RcvMetalVideoView.h" name="rcvsdk/ios/rcvsdk/RcvMetalVideoView.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,261,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="162,226,326,252"/>
-<area shape="rect" id="node3" title=" " alt="" coords="110,153,207,178"/>
-<area shape="rect" id="node4" href="$_rcv_base_video_view_8h.html" title=" " alt="" coords="171,79,317,105"/>
-<area shape="rect" id="node5" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="281,153,412,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,261,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="162,226,326,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,33,111,61,95,98,89,139,92,159,101,177,126,202,158,219,156,223,123,206,96,180,87,160,84,139,90,97,106,58,122,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,153,207,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,31,156,138,151,139,132,32"/>
+<area shape="rect" id="Node000004" href="$_rcv_base_video_view_8h.html" title=" " alt="" coords="171,79,317,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,29,214,68,211,73,150,34"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="246,105,246,211,241,211,241,105"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="231,107,185,145,182,141,227,103"/>
+<area shape="rect" id="Node000005" href="$_rcv_render_mode_8h.html" title=" " alt="" coords="281,153,412,178"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="263,103,319,142,316,146,260,107"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="330,181,274,220,271,215,327,177"/>
 </map>

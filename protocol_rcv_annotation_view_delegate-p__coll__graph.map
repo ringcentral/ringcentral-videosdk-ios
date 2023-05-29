@@ -1,4 +1,5 @@
 <map id="&lt;RcvAnnotationViewDelegate&gt;" name="&lt;RcvAnnotationViewDelegate&gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="5,132,258,330"/>
-<area shape="rect" id="node2" title=" " alt="" coords="84,5,179,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,248,344"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="84,5,169,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,85,129,119,124,119,124,85"/>
 </map>

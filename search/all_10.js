@@ -73,5 +73,6 @@ var searchData=
   ['stopsharing_70',['stopSharing',['../interface_rcv_sharing_controller.html#a31441a6bb4a22e4cc8148f7749409944',1,'RcvSharingController']]],
   ['switchcamera_71',['switchCamera',['../interface_rcv_video_controller.html#a0162b3bd6d48a684d3a6c722698affca',1,'RcvVideoController']]],
   ['switchsharecamera_72',['switchShareCamera',['../interface_rcv_sharing_controller.html#a6faf8841b948796d7fa8b94a1529ce06',1,'RcvSharingController']]],
-  ['switchvideotrack_3a_73',['switchVideoTrack:',['../interface_rcv_i_participant.html#a0c5c18e9a592675c1cbb190915509e2a',1,'RcvIParticipant']]]
+  ['switchvideotrack_3a_73',['switchVideoTrack:',['../interface_rcv_i_participant.html#a0c5c18e9a592675c1cbb190915509e2a',1,'RcvIParticipant']]],
+  ['switchvirtualbackground_3aconfig_3a_74',['switchVirtualBackground:config:',['../interface_rcv_video_controller.html#a82a41c6ee1e28091b13e794022f26aa5',1,'RcvVideoController']]]
 ];
