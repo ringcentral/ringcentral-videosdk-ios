@@ -69,6 +69,8 @@ var _rcv_meeting_error_type_8h =
       [ "RcvMeetingErrorTypeWEBINARERRORPANELISTSIGNINREQUIRED", "_rcv_meeting_error_type_8h.html#a55ed2742e8f24fdcf884ee022ebb9583afb63f127923b91b86822bf0ebfed4384", null ],
       [ "RcvMeetingErrorTypeSIPTLSERROR", "_rcv_meeting_error_type_8h.html#a55ed2742e8f24fdcf884ee022ebb9583a24f14a242c411da1cecb8489ab261918", null ],
       [ "RcvMeetingErrorTypeMANUALLYCANCELLED", "_rcv_meeting_error_type_8h.html#a55ed2742e8f24fdcf884ee022ebb9583a62d6bc74742ad6a5e37312638ec987c4", null ],
+      [ "RcvMeetingErrorTypeWEBINARERRORRESTRICTUSEOTHERLINK", "_rcv_meeting_error_type_8h.html#a55ed2742e8f24fdcf884ee022ebb9583a9693a5661ee2611eb8fcced9f2e67563", null ],
+      [ "RcvMeetingErrorTypeVCGCONNECTFAILED", "_rcv_meeting_error_type_8h.html#a55ed2742e8f24fdcf884ee022ebb9583ae23809667a1f7b046a486cc4a22c0d6d", null ],
       [ "RcvMeetingErrorTypeMAXERROR", "_rcv_meeting_error_type_8h.html#a55ed2742e8f24fdcf884ee022ebb9583a490c907cfd750499a57afbe3300bb520", null ]
     ] ]
 ];

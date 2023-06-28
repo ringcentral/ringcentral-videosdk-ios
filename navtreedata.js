@@ -29,7 +29,10 @@ var NAVTREE =
     [ "Prerequisites", "index.html#autotoc_md2", null ],
     [ "How To Program Real-time Video With iOS", "index.html#autotoc_md3", null ],
     [ "Known Issues", "index.html#autotoc_md4", null ],
-    [ "Contact Us", "index.html#autotoc_md5", null ],
+    [ "Reporting usage data", "index.html#autotoc_md5", [
+      [ "What information do we transmit", "index.html#autotoc_md6", null ]
+    ] ],
+    [ "Contact Us", "index.html#autotoc_md7", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -55,10 +58,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_r_c_v_annotation_8h.html",
-"_rcv_local_video_mute_reason_8h.html",
-"_rcv_waiting_room_mode_8h.html#a3a0173d506c95d0969cabccbd66c20cfa0b0ebfe3fbf8c4c9eefd38af2013e38f",
-"interface_rcv_i_participant.html#ad6fc1ce612338dbaf7568bcf085a60a0",
-"interface_rcv_sharing_controller.html#ac5d9b9432b82ccb3ea8bbf70984f9865"
+"_rcv_leave_reason_8h_source.html",
+"_rcv_sharing_state_8h.html",
+"interface_rcv_i_participant.html#a353f5d9ae34c3b28d859856bef0fc88c",
+"interface_rcv_schedule_meeting_settings.html#a15ff0b4ccd812709bc31f5532d27cecd"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

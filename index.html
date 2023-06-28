@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.12.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.13.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -156,7 +156,7 @@ How To Program Real-time Video With iOS</h1>
 <li>Change the <b>Enable Bitcode</b> setting value to <b>No</b> under <b>Build Settings</b>.</li>
 <li>If use Simulator in arm64(M1 M2 etc) cpu macbook, Add the <b>Excluded Architectures</b> -&gt; <b>Debug/Release</b> -&gt; <b>Any iOS Simulator SDK</b> setting value to <b>arm64</b> under <b>Build Settings</b></li>
 <li><p class="startli">Use your client ID and client secret to initial the RCV client SDK engine as code below, the client ID and client secret are required.</p>
-<div class="fragment"><div class="line">RcvEngine.create(&lt;#ClientID#&gt;, appSecret: &lt;#ClientSecret#&gt;)</div>
+<div class="fragment"><div class="line">RcvEngine.create(&lt;#ClientID#&gt;, appSecret: &lt;#ClientSecret#&gt;, isShareUsageData: false)</div>
 </div><!-- fragment --></li>
 <li><p class="startli">If you intend to host a meeting or access your extension information, such as the meeting list or the recording list, etc, follow the steps in our RingCentral Video client SDK Dev Guide (<a href="https://ringcentral-ringcentral-video-api-docs.readthedocs-hosted.com/en/latest/sdk/ringcentral-app-auth/">https://ringcentral-ringcentral-video-api-docs.readthedocs-hosted.com/en/latest/sdk/ringcentral-app-auth/</a>) to procure the RingCentral authorization tokens and invoke the API method as code below.</p>
 <div class="fragment"><div class="line">RcvEngine.instance().setAuthToken(&lt;#authorization token string#&gt;, autoRefresh: true)</div>
@@ -169,6 +169,24 @@ Known Issues</h1>
 <li>Some interfaces are not supported yet in the current version, they are being actively developed. For example, the breakout room, etc.</li>
 </ul>
 <h1><a class="anchor" id="autotoc_md5"></a>
+Reporting usage data</h1>
+<p>We have included in the SDK the ability to send important usage data back to RingCentral systems to help product teams improve the product, monitor for issues, and better understand how developers and users are engaging with the products this SDK powers. This is enabled by default.</p>
+<p>We understand that some may prefer this information not be transmitted to RingCentral via the SDK. To opt-out of this reporting, please make the following code change(s): </p><div class="fragment"><div class="line">new RcvEngine({</div>
+<div class="line">    clientId,</div>
+<div class="line">    clientSecret,</div>
+<div class="line">    isShareUsageData: false</div>
+<div class="line">})</div>
+</div><!-- fragment --><h2><a class="anchor" id="autotoc_md6"></a>
+What information do we transmit</h2>
+<p>When enabled, our reporting system transmits data when certain events are triggered. Accompanying each event is the following metadata:</p><ul>
+<li>Client ID</li>
+<li>Anonymized account ID</li>
+<li>SDK user-agent (name and version)</li>
+<li>Event performed</li>
+<li>Other event-specific meta data as needed</li>
+</ul>
+<p>We do not transmit any personal data or personally identifiable information.</p>
+<h1><a class="anchor" id="autotoc_md7"></a>
 Contact Us</h1>
 <ul>
 <li>Dev Support &amp; Feedback: For feedback, questions or suggestions around SDK please email <a href="#" onclick="location.href='mai'+'lto:'+'rcv'+'-p'+'art'+'ne'+'rs@'+'ri'+'ngc'+'en'+'tra'+'l.'+'com'; return false;">rcv-p<span class="obfuscator">.nosp@m.</span>artn<span class="obfuscator">.nosp@m.</span>ers@r<span class="obfuscator">.nosp@m.</span>ingc<span class="obfuscator">.nosp@m.</span>entra<span class="obfuscator">.nosp@m.</span>l.co<span class="obfuscator">.nosp@m.</span>m</a> or <a href="#" onclick="location.href='mai'+'lto:'+'vid'+'eo'+'sdk'+'fe'+'edb'+'ac'+'k@r'+'in'+'gce'+'nt'+'ral'+'.c'+'om'; return false;">video<span class="obfuscator">.nosp@m.</span>sdkf<span class="obfuscator">.nosp@m.</span>eedba<span class="obfuscator">.nosp@m.</span>ck@r<span class="obfuscator">.nosp@m.</span>ingce<span class="obfuscator">.nosp@m.</span>ntra<span class="obfuscator">.nosp@m.</span>l.com</a> </li>

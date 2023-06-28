@@ -1,7 +1,7 @@
 var interface_rcv_engine =
 [
     [ "authorize:", "interface_rcv_engine.html#acf2359c6d1fd9773b3237715f79fdfd6", null ],
-    [ "create:clientSecret:", "interface_rcv_engine.html#af7ed8ba29af7fe5a2aa92c36d0176006", null ],
+    [ "create:clientSecret:isShareUsageData:", "interface_rcv_engine.html#a625566ae786cfdf3cc578168775029f6", null ],
     [ "destroy", "interface_rcv_engine.html#a3e011e7c4de70b84dd59d9f9bdb70d43", null ],
     [ "getErrorType:", "interface_rcv_engine.html#a880f349b5471043f7841651508129ce5", null ],
     [ "getMeetingContextController", "interface_rcv_engine.html#a7208d4653c3178a9e44f61cc4a857596", null ],

@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.12.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.13.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -131,50 +131,50 @@ $(document).ready(function(){initNavTree('_rcv_engine_8h_source.html',''); initR
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno"><a class="line" href="interface_rcv_engine.html">   27</a></span><span class="keyword">@interface </span><a class="code hl_interface" href="interface_rcv_engine.html">RcvEngine</a> : NSObject</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span> </div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>+ (instancetype)create:(nonnull NSString*)clientId clientSecret:(nonnull NSString*)clientSecret;</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>+ (instancetype)<a class="code hl_function" href="interface_rcv_engine.html#a71a44df103bcd9d5fe347f2981ff584e">instance</a>;</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>- (void)<a class="code hl_function" href="interface_rcv_engine.html#a3e011e7c4de70b84dd59d9f9bdb70d43">destroy</a>;</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>+ (<a class="code hl_enumeration" href="_rcv_error_code_type_8h.html#a7be093902d7e384ace0b42e6ad8bf0fc">RcvErrorCodeType</a>)getErrorType:(int64_t)errorCode;</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span> </div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>- (void)registerEventHandler:(nullable <span class="keywordtype">id</span>&lt;RcvEngineEventHandler&gt;)handler;</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>- (void)unregisterEventHandler:(nullable <span class="keywordtype">id</span>&lt;RcvEngineEventHandler&gt;)handler;</div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span> </div>
-<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)<a class="code hl_function" href="interface_rcv_engine.html#aee5898d6a12ac897e4e8df31b7ec09bc">startInstantMeeting</a>;</div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span> </div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)<a class="code hl_function" href="interface_rcv_engine.html#aee5898d6a12ac897e4e8df31b7ec09bc">startInstantMeeting</a>:(nullable <a class="code hl_interface" href="interface_rcv_instant_meeting_settings.html">RcvInstantMeetingSettings</a>*)settings</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>                                              options:(nullable <a class="code hl_interface" href="interface_rcv_meeting_options.html">RcvMeetingOptions</a>*)options;</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span> </div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)joinMeeting:(nonnull NSString*)meetingId options:(nullable <a class="code hl_interface" href="interface_rcv_meeting_options.html">RcvMeetingOptions</a>*)options;</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span> </div>
-<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)getMeetingController:(nonnull NSString*)meetingId;</div>
-<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span> </div>
-<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_context_controller.html">RcvMeetingContextController</a>*)<a class="code hl_function" href="interface_rcv_engine.html#a7208d4653c3178a9e44f61cc4a857596">getMeetingContextController</a>;</div>
-<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span> </div>
-<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>- (nullable RcvPreferenceController*)<a class="code hl_function" href="interface_rcv_engine.html#a823738d0c7c0a89bba17419c679cf477">getPreferenceController</a>;</div>
-<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span> </div>
-<div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>- (int64_t)setLocalAudioProcessor:(nullable <span class="keywordtype">id</span>&lt;RcvAudioProcessor&gt;)processor;</div>
-<div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span> </div>
-<div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>- (int64_t)setLocalVideoProcessor:(nullable <span class="keywordtype">id</span>&lt;RcvVideoProcessor&gt;)processor;</div>
-<div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span> </div>
-<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>- (int64_t)setAuthToken:(nonnull NSString*)tokenJsonStr autoRefresh:(BOOL)autoRefresh;</div>
-<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span> </div>
-<div class="line"><a id="l00199" name="l00199"></a><span class="lineno">  199</span>- (int64_t)renewAuthToken:(nonnull NSString*)refreshToken;</div>
-<div class="line"><a id="l00200" name="l00200"></a><span class="lineno">  200</span> </div>
-<div class="line"><a id="l00209" name="l00209"></a><span class="lineno">  209</span>- (int64_t)setAppGroupName:(nonnull NSString*)appGroupName;</div>
-<div class="line"><a id="l00210" name="l00210"></a><span class="lineno">  210</span> </div>
-<div class="line"><a id="l00222" name="l00222"></a><span class="lineno">  222</span>- (int64_t)authorize:(nullable <a class="code hl_interface" href="interface_rcv_oauth_options.html">RcvOauthOptions</a>*)options;</div>
-<div class="line"><a id="l00223" name="l00223"></a><span class="lineno">  223</span> </div>
-<div class="line"><a id="l00232" name="l00232"></a><span class="lineno">  232</span><span class="comment">//- (int64_t)getMeetingBridge:(nonnull NSString*)meetingID;</span></div>
-<div class="line"><a id="l00233" name="l00233"></a><span class="lineno">  233</span> </div>
-<div class="line"><a id="l00234" name="l00234"></a><span class="lineno">  234</span><span class="keyword">@end</span></div>
-<div class="line"><a id="l00235" name="l00235"></a><span class="lineno">  235</span> </div>
-<div class="line"><a id="l00236" name="l00236"></a><span class="lineno"><a class="line" href="interface_rcv_engine.html#acf2359c6d1fd9773b3237715f79fdfd6">  236</a></span>NS_ASSUME_NONNULL_END</div>
-<div class="line"><a id="l00237" name="l00237"></a><span class="lineno">  237</span> </div>
-<div class="line"><a id="l00238" name="l00238"></a><span class="lineno">  238</span><span class="comment">/* RcvEngine.h */</span></div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>+ (instancetype)create:(nonnull NSString*)clientId clientSecret:(nonnull NSString*)clientSecret isShareUsageData:(<span class="keywordtype">bool</span>)isShareUsageData;</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>+ (instancetype)<a class="code hl_function" href="interface_rcv_engine.html#a71a44df103bcd9d5fe347f2981ff584e">instance</a>;</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>- (void)<a class="code hl_function" href="interface_rcv_engine.html#a3e011e7c4de70b84dd59d9f9bdb70d43">destroy</a>;</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>+ (<a class="code hl_enumeration" href="_rcv_error_code_type_8h.html#a7be093902d7e384ace0b42e6ad8bf0fc">RcvErrorCodeType</a>)getErrorType:(int64_t)errorCode;</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span> </div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>- (void)registerEventHandler:(nullable <span class="keywordtype">id</span>&lt;RcvEngineEventHandler&gt;)handler;</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span> </div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>- (void)unregisterEventHandler:(nullable <span class="keywordtype">id</span>&lt;RcvEngineEventHandler&gt;)handler;</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span> </div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)<a class="code hl_function" href="interface_rcv_engine.html#aee5898d6a12ac897e4e8df31b7ec09bc">startInstantMeeting</a>;</div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span> </div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)<a class="code hl_function" href="interface_rcv_engine.html#aee5898d6a12ac897e4e8df31b7ec09bc">startInstantMeeting</a>:(nullable <a class="code hl_interface" href="interface_rcv_instant_meeting_settings.html">RcvInstantMeetingSettings</a>*)settings</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>                                              options:(nullable <a class="code hl_interface" href="interface_rcv_meeting_options.html">RcvMeetingOptions</a>*)options;</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span> </div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)joinMeeting:(nonnull NSString*)meetingId options:(nullable <a class="code hl_interface" href="interface_rcv_meeting_options.html">RcvMeetingOptions</a>*)options;</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span> </div>
+<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_controller.html">RcvMeetingController</a>*)getMeetingController:(nonnull NSString*)meetingId;</div>
+<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span> </div>
+<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span>- (nullable <a class="code hl_interface" href="interface_rcv_meeting_context_controller.html">RcvMeetingContextController</a>*)<a class="code hl_function" href="interface_rcv_engine.html#a7208d4653c3178a9e44f61cc4a857596">getMeetingContextController</a>;</div>
+<div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span> </div>
+<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span>- (nullable RcvPreferenceController*)<a class="code hl_function" href="interface_rcv_engine.html#a823738d0c7c0a89bba17419c679cf477">getPreferenceController</a>;</div>
+<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span> </div>
+<div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span>- (int64_t)setLocalAudioProcessor:(nullable <span class="keywordtype">id</span>&lt;RcvAudioProcessor&gt;)processor;</div>
+<div class="line"><a id="l00162" name="l00162"></a><span class="lineno">  162</span> </div>
+<div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>- (int64_t)setLocalVideoProcessor:(nullable <span class="keywordtype">id</span>&lt;RcvVideoProcessor&gt;)processor;</div>
+<div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span> </div>
+<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>- (int64_t)setAuthToken:(nonnull NSString*)tokenJsonStr autoRefresh:(BOOL)autoRefresh;</div>
+<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span> </div>
+<div class="line"><a id="l00200" name="l00200"></a><span class="lineno">  200</span>- (int64_t)renewAuthToken:(nonnull NSString*)refreshToken;</div>
+<div class="line"><a id="l00201" name="l00201"></a><span class="lineno">  201</span> </div>
+<div class="line"><a id="l00210" name="l00210"></a><span class="lineno">  210</span>- (int64_t)setAppGroupName:(nonnull NSString*)appGroupName;</div>
+<div class="line"><a id="l00211" name="l00211"></a><span class="lineno">  211</span> </div>
+<div class="line"><a id="l00223" name="l00223"></a><span class="lineno">  223</span>- (int64_t)authorize:(nullable <a class="code hl_interface" href="interface_rcv_oauth_options.html">RcvOauthOptions</a>*)options;</div>
+<div class="line"><a id="l00224" name="l00224"></a><span class="lineno">  224</span> </div>
+<div class="line"><a id="l00233" name="l00233"></a><span class="lineno">  233</span><span class="comment">//- (int64_t)getMeetingBridge:(nonnull NSString*)meetingID;</span></div>
+<div class="line"><a id="l00234" name="l00234"></a><span class="lineno">  234</span> </div>
+<div class="line"><a id="l00235" name="l00235"></a><span class="lineno">  235</span><span class="keyword">@end</span></div>
+<div class="line"><a id="l00236" name="l00236"></a><span class="lineno">  236</span> </div>
+<div class="line"><a id="l00237" name="l00237"></a><span class="lineno"><a class="line" href="interface_rcv_engine.html#acf2359c6d1fd9773b3237715f79fdfd6">  237</a></span>NS_ASSUME_NONNULL_END</div>
+<div class="line"><a id="l00238" name="l00238"></a><span class="lineno">  238</span> </div>
+<div class="line"><a id="l00239" name="l00239"></a><span class="lineno">  239</span><span class="comment">/* RcvEngine.h */</span></div>
 <div class="ttc" id="a_rcv_audio_processor_8h_html"><div class="ttname"><a href="_rcv_audio_processor_8h.html">RcvAudioProcessor.h</a></div></div>
 <div class="ttc" id="a_rcv_engine_event_handler_8h_html"><div class="ttname"><a href="_rcv_engine_event_handler_8h.html">RcvEngineEventHandler.h</a></div></div>
 <div class="ttc" id="a_rcv_error_code_type_8h_html"><div class="ttname"><a href="_rcv_error_code_type_8h.html">RcvErrorCodeType.h</a></div></div>

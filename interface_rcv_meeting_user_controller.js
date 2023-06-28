@@ -3,6 +3,8 @@ var interface_rcv_meeting_user_controller =
     [ "admitAll", "interface_rcv_meeting_user_controller.html#a06aead2675e9bdea8d5b688e70a4ae60", null ],
     [ "admitUser:", "interface_rcv_meeting_user_controller.html#ae60ed34607c5da368fb07e754942b85a", null ],
     [ "assignModerators:", "interface_rcv_meeting_user_controller.html#a04d7c7e641a3f86528ce67af63f61eb3", null ],
+    [ "callOut:phone:", "interface_rcv_meeting_user_controller.html#afca1e8af59601f6da7ea6cf428d79b85", null ],
+    [ "deleteDial:", "interface_rcv_meeting_user_controller.html#a90cb9e36fe6ecfe86bcdb4a5ef3b3068", null ],
     [ "denyUser:", "interface_rcv_meeting_user_controller.html#aee6117c24ef07b047f1182f95da6d7bc", null ],
     [ "getActiveVideoUser", "interface_rcv_meeting_user_controller.html#a8f81ecdd97d2abcca5c1e377e0845ee3", null ],
     [ "getMeetingUserById:", "interface_rcv_meeting_user_controller.html#a341f78e27a1ea5ef819e9c5108aaa593", null ],

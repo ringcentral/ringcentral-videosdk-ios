@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.12.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.13.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -113,12 +113,12 @@ $(document).ready(function(){initNavTree('interface_rcv_meeting_user_controller.
 <div class="dynheader">
 Inheritance diagram for RcvMeetingUserController:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__inherit__graph.svg" width="178" height="430"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__inherit__graph.svg" width="178" height="470"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div class="dynheader">
 Collaboration diagram for RcvMeetingUserController:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__coll__graph.svg" width="178" height="430"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__coll__graph.svg" width="178" height="470"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -149,6 +149,10 @@ Instance Methods</h2></td></tr>
 <tr class="separator:aa6369adcbeeca6a19d3b2756ad452a84"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acd334328f9b36b73556da34f9f495402"><td class="memItemLeft" align="right" valign="top">(int64_t)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_meeting_user_controller.html#acd334328f9b36b73556da34f9f495402">removeUser:</a></td></tr>
 <tr class="separator:acd334328f9b36b73556da34f9f495402"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afca1e8af59601f6da7ea6cf428d79b85"><td class="memItemLeft" align="right" valign="top">(int64_t)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_meeting_user_controller.html#afca1e8af59601f6da7ea6cf428d79b85">callOut:phone:</a></td></tr>
+<tr class="separator:afca1e8af59601f6da7ea6cf428d79b85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90cb9e36fe6ecfe86bcdb4a5ef3b3068"><td class="memItemLeft" align="right" valign="top">(int64_t)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_meeting_user_controller.html#a90cb9e36fe6ecfe86bcdb4a5ef3b3068">deleteDial:</a></td></tr>
+<tr class="separator:a90cb9e36fe6ecfe86bcdb4a5ef3b3068"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <b><a class="el" href="interface_rcv_meeting_user_controller.html">RcvMeetingUserController</a></b> class is a managing class to control the meeting user related functions and states in an active meeting, such as admitting or denying the participants who are in the waiting room and assigning moderators, etc. </p>
@@ -227,6 +231,69 @@ Instance Methods</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>0 means the action succeeds or fails otherwise </dd></dl>
+
+</div>
+</div>
+<a id="afca1e8af59601f6da7ea6cf428d79b85" name="afca1e8af59601f6da7ea6cf428d79b85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afca1e8af59601f6da7ea6cf428d79b85">&#9670;&#160;</a></span>callOut:phone:</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (int64_t) callOut: </td>
+          <td></td>
+          <td class="paramtype">(nonnull NSString *)&#160;</td>
+          <td class="paramname"><em>countryCode</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">phone:</td>
+          <td></td>
+          <td class="paramtype">(nonnull NSString *)&#160;</td>
+          <td class="paramname"><em>phone</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Invite by phone number</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">countryCode</td><td>should be pure number format string for country code</td></tr>
+    <tr><td class="paramname">phone</td><td>should be pure number format string for phone number</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>return 0 means the action succeeds or fails otherwise </p>
+
+</div>
+</div>
+<a id="a90cb9e36fe6ecfe86bcdb4a5ef3b3068" name="a90cb9e36fe6ecfe86bcdb4a5ef3b3068"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90cb9e36fe6ecfe86bcdb4a5ef3b3068">&#9670;&#160;</a></span>deleteDial:</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (int64_t) deleteDial: </td>
+          <td></td>
+          <td class="paramtype">(nonnull NSString *)&#160;</td>
+          <td class="paramname"><em>id</em></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Hangup the dial by id</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>The id of the callout</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>return 0 means the action succeeds or fails otherwise </p>
 
 </div>
 </div>

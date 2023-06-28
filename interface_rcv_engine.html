@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.12.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.13.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -114,12 +114,12 @@ $(document).ready(function(){initNavTree('interface_rcv_engine.html',''); initRe
 <div class="dynheader">
 Inheritance diagram for RcvEngine:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_engine__inherit__graph.svg" width="200" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_engine__inherit__graph.svg" width="262" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div class="dynheader">
 Collaboration diagram for RcvEngine:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_engine__coll__graph.svg" width="200" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_engine__coll__graph.svg" width="262" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -157,8 +157,8 @@ Instance Methods</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Class Methods</h2></td></tr>
-<tr class="memitem:af7ed8ba29af7fe5a2aa92c36d0176006"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">+ <a class="el" href="interface_rcv_engine.html#af7ed8ba29af7fe5a2aa92c36d0176006">create:clientSecret:</a></td></tr>
-<tr class="separator:af7ed8ba29af7fe5a2aa92c36d0176006"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a625566ae786cfdf3cc578168775029f6"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">+ <a class="el" href="interface_rcv_engine.html#a625566ae786cfdf3cc578168775029f6">create:clientSecret:isShareUsageData:</a></td></tr>
+<tr class="separator:a625566ae786cfdf3cc578168775029f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a71a44df103bcd9d5fe347f2981ff584e"><td class="memItemLeft" align="right" valign="top">(instancetype)&#160;</td><td class="memItemRight" valign="bottom">+ <a class="el" href="interface_rcv_engine.html#a71a44df103bcd9d5fe347f2981ff584e">instance</a></td></tr>
 <tr class="separator:a71a44df103bcd9d5fe347f2981ff584e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a880f349b5471043f7841651508129ce5"><td class="memItemLeft" align="right" valign="top">(<a class="el" href="_rcv_error_code_type_8h.html#a7be093902d7e384ace0b42e6ad8bf0fc">RcvErrorCodeType</a>)&#160;</td><td class="memItemRight" valign="bottom">+ <a class="el" href="interface_rcv_engine.html#a880f349b5471043f7841651508129ce5">getErrorType:</a></td></tr>
@@ -195,8 +195,8 @@ Class Methods</h2></td></tr>
 
 </div>
 </div>
-<a id="af7ed8ba29af7fe5a2aa92c36d0176006" name="af7ed8ba29af7fe5a2aa92c36d0176006"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7ed8ba29af7fe5a2aa92c36d0176006">&#9670;&#160;</a></span>create:clientSecret:</h2>
+<a id="a625566ae786cfdf3cc578168775029f6" name="a625566ae786cfdf3cc578168775029f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a625566ae786cfdf3cc578168775029f6">&#9670;&#160;</a></span>create:clientSecret:isShareUsageData:</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -211,7 +211,13 @@ Class Methods</h2></td></tr>
           <td class="paramkey">clientSecret:</td>
           <td></td>
           <td class="paramtype">(nonnull NSString *)&#160;</td>
-          <td class="paramname"><em>clientSecret</em>&#160;</td>
+          <td class="paramname"><em>clientSecret</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">isShareUsageData:</td>
+          <td></td>
+          <td class="paramtype">(bool)&#160;</td>
+          <td class="paramname"><em>isShareUsageData</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -224,7 +230,8 @@ Class Methods</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">clientId</td><td>The application account identity number </td></tr>
-    <tr><td class="paramname">clientSecret</td><td>The application account identity secret</td></tr>
+    <tr><td class="paramname">clientSecret</td><td>The application account identity secret </td></tr>
+    <tr><td class="paramname">isShareUsageData</td><td>The switch to send important usage data back to RingCentral</td></tr>
   </table>
   </dd>
 </dl>
