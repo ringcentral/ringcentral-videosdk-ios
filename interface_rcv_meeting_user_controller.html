@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.13.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.14.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -113,12 +113,12 @@ $(document).ready(function(){initNavTree('interface_rcv_meeting_user_controller.
 <div class="dynheader">
 Inheritance diagram for RcvMeetingUserController:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__inherit__graph.svg" width="178" height="470"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__inherit__graph.svg" width="178" height="490"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div class="dynheader">
 Collaboration diagram for RcvMeetingUserController:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__coll__graph.svg" width="178" height="470"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_rcv_meeting_user_controller__coll__graph.svg" width="178" height="490"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -153,6 +153,8 @@ Instance Methods</h2></td></tr>
 <tr class="separator:afca1e8af59601f6da7ea6cf428d79b85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a90cb9e36fe6ecfe86bcdb4a5ef3b3068"><td class="memItemLeft" align="right" valign="top">(int64_t)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_meeting_user_controller.html#a90cb9e36fe6ecfe86bcdb4a5ef3b3068">deleteDial:</a></td></tr>
 <tr class="separator:a90cb9e36fe6ecfe86bcdb4a5ef3b3068"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a387a3a07c6749dd6055bbddb57971795"><td class="memItemLeft" align="right" valign="top">(BOOL)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="interface_rcv_meeting_user_controller.html#a387a3a07c6749dd6055bbddb57971795">isCallOutAllowed</a></td></tr>
+<tr class="separator:a387a3a07c6749dd6055bbddb57971795"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <b><a class="el" href="interface_rcv_meeting_user_controller.html">RcvMeetingUserController</a></b> class is a managing class to control the meeting user related functions and states in an active meeting, such as admitting or denying the participants who are in the waiting room and assigning moderators, etc. </p>
@@ -406,6 +408,25 @@ Instance Methods</h2></td></tr>
 </div><div class="memdoc">
 <p>Gets the local user object.</p>
 <dl class="section return"><dt>Returns</dt><dd>The local user object or Null otherwise </dd></dl>
+
+</div>
+</div>
+<a id="a387a3a07c6749dd6055bbddb57971795" name="a387a3a07c6749dd6055bbddb57971795"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a387a3a07c6749dd6055bbddb57971795">&#9670;&#160;</a></span>isCallOutAllowed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (BOOL) isCallOutAllowed </td>
+          <td></td>
+          <td class="paramname"></td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Indicates whether the participant in the conference has permission to callout.</p>
+<dl class="section return"><dt>Returns</dt><dd>True means has permission or otherwise </dd></dl>
 
 </div>
 </div>

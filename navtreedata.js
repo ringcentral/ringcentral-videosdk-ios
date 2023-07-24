@@ -58,10 +58,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_r_c_v_annotation_8h.html",
-"_rcv_leave_reason_8h_source.html",
-"_rcv_sharing_state_8h.html",
-"interface_rcv_i_participant.html#a353f5d9ae34c3b28d859856bef0fc88c",
-"interface_rcv_schedule_meeting_settings.html#a15ff0b4ccd812709bc31f5532d27cecd"
+"_rcv_leave_reason_8h.html",
+"_rcv_sharing_controller_8h.html",
+"interface_rcv_i_participant.html#a0293989efbb68c749029ffc8b24a31c0",
+"interface_rcv_personal_meeting_settings.html#af256ed83421f5aa9c6be4f9cf1a33f79",
+"protocol_rcv_video_event_handler-p.html#ab06cea53b1fd37bbf57e10d656449f34"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

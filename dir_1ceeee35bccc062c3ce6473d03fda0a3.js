@@ -9,6 +9,7 @@ var dir_1ceeee35bccc062c3ce6473d03fda0a3 =
     [ "RcvAudioProcessor.h", "_rcv_audio_processor_8h.html", "_rcv_audio_processor_8h" ],
     [ "RcvAudioRouteType.h", "_rcv_audio_route_type_8h.html", "_rcv_audio_route_type_8h" ],
     [ "RcvBaseVideoView.h", "_rcv_base_video_view_8h.html", "_rcv_base_video_view_8h" ],
+    [ "RcvCallPhoneStatus.h", "_rcv_call_phone_status_8h.html", "_rcv_call_phone_status_8h" ],
     [ "RcvCaptureDevicePosition.h", "_rcv_capture_device_position_8h.html", "_rcv_capture_device_position_8h" ],
     [ "RcvChatPrivilege.h", "_rcv_chat_privilege_8h.html", "_rcv_chat_privilege_8h" ],
     [ "RcvChatType.h", "_rcv_chat_type_8h.html", "_rcv_chat_type_8h" ],

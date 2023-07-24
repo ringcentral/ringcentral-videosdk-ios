@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.13.0</span>
+   <div id="projectname">RingCentral Video Client SDK for iOS<span id="projectnumber">&#160;0.14.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -113,7 +113,7 @@ $(document).ready(function(){initNavTree('protocol_rcv_meeting_user_event_handle
 <div class="dynheader">
 Collaboration diagram for &lt;RcvMeetingUserEventHandler&gt;:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="protocol_rcv_meeting_user_event_handler-p__coll__graph.svg" width="222" height="256"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="protocol_rcv_meeting_user_event_handler-p__coll__graph.svg" width="368" height="276"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -138,6 +138,8 @@ Instance Methods</h2></td></tr>
 <tr class="separator:a8f5d66031b82acbec937269a5724cf1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac87789430cab89a5c6f15bedbcd9c46d"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_rcv_meeting_user_event_handler-p.html#ac87789430cab89a5c6f15bedbcd9c46d">onDeleteDial:</a></td></tr>
 <tr class="separator:ac87789430cab89a5c6f15bedbcd9c46d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a105ec0b45d17ff1ad775801fe8500b11"><td class="memItemLeft" align="right" valign="top">(void)&#160;</td><td class="memItemRight" valign="bottom">- <a class="el" href="protocol_rcv_meeting_user_event_handler-p.html#a105ec0b45d17ff1ad775801fe8500b11">onLocalDialStateChanged:callerId:number:status:deleted:</a></td></tr>
+<tr class="separator:a105ec0b45d17ff1ad775801fe8500b11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <b><a class="el" href="protocol_rcv_meeting_user_event_handler-p.html">RcvMeetingUserEventHandler</a></b> class is an interface class to send the meeting-user event callbacks to the application. The application inherits the methods of this interface class to get those event callbacks. </p>
@@ -247,6 +249,63 @@ Instance Methods</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">errorCode</td><td>is call out error code </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a105ec0b45d17ff1ad775801fe8500b11" name="a105ec0b45d17ff1ad775801fe8500b11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a105ec0b45d17ff1ad775801fe8500b11">&#9670;&#160;</a></span>onLocalDialStateChanged:callerId:number:status:deleted:</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">- (void) onLocalDialStateChanged: </td>
+          <td></td>
+          <td class="paramtype">(nonnull NSString *)&#160;</td>
+          <td class="paramname"><em>id</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">callerId:</td>
+          <td></td>
+          <td class="paramtype">(nonnull NSString *)&#160;</td>
+          <td class="paramname"><em>callerId</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">number:</td>
+          <td></td>
+          <td class="paramtype">(nonnull NSString *)&#160;</td>
+          <td class="paramname"><em>number</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">status:</td>
+          <td></td>
+          <td class="paramtype">(<a class="el" href="_rcv_call_phone_status_8h.html#a9274e3fa4d96fddfaaae35be82c4a5bd">RcvCallPhoneStatus</a>)&#160;</td>
+          <td class="paramname"><em>status</em></td>
+        </tr>
+        <tr>
+          <td class="paramkey">deleted:</td>
+          <td></td>
+          <td class="paramtype">(BOOL)&#160;</td>
+          <td class="paramname"><em>deleted</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Occurs when the local dial state is changed.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>is dial id </td></tr>
+    <tr><td class="paramname">callerID</td><td>is caller participate id </td></tr>
+    <tr><td class="paramname">number</td><td>is dial number </td></tr>
+    <tr><td class="paramname">status</td><td>is current dial status </td></tr>
+    <tr><td class="paramname">deleted</td><td>is dial deleted </td></tr>
   </table>
   </dd>
 </dl>

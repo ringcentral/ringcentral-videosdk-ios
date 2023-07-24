@@ -10,6 +10,7 @@ var interface_rcv_meeting_user_controller =
     [ "getMeetingUserById:", "interface_rcv_meeting_user_controller.html#a341f78e27a1ea5ef819e9c5108aaa593", null ],
     [ "getMeetingUserList", "interface_rcv_meeting_user_controller.html#a4ef49a9bbe9345b007ee3d3f85d22166", null ],
     [ "getMyself", "interface_rcv_meeting_user_controller.html#a58b7e6a5a0dc9dfca114df52fbffcc8c", null ],
+    [ "isCallOutAllowed", "interface_rcv_meeting_user_controller.html#a387a3a07c6749dd6055bbddb57971795", null ],
     [ "putInWaitingRoom:", "interface_rcv_meeting_user_controller.html#aa6369adcbeeca6a19d3b2756ad452a84", null ],
     [ "registerEventHandler:", "interface_rcv_meeting_user_controller.html#afcc8ef46e360844dc2da2095c2daa0b7", null ],
     [ "removeUser:", "interface_rcv_meeting_user_controller.html#acd334328f9b36b73556da34f9f495402", null ],

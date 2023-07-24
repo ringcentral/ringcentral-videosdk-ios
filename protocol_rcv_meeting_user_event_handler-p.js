@@ -4,6 +4,7 @@ var protocol_rcv_meeting_user_event_handler_p =
     [ "onActiveVideoUserChanged:", "protocol_rcv_meeting_user_event_handler-p.html#a4c8a9080290dc2f8215cffbedb03550d", null ],
     [ "onCallOut:errorCode:", "protocol_rcv_meeting_user_event_handler-p.html#a8f5d66031b82acbec937269a5724cf1d", null ],
     [ "onDeleteDial:", "protocol_rcv_meeting_user_event_handler-p.html#ac87789430cab89a5c6f15bedbcd9c46d", null ],
+    [ "onLocalDialStateChanged:callerId:number:status:deleted:", "protocol_rcv_meeting_user_event_handler-p.html#a105ec0b45d17ff1ad775801fe8500b11", null ],
     [ "onLocalNetworkQuality:", "protocol_rcv_meeting_user_event_handler-p.html#af8af94551bc71841c9b7ae50c3defcd3", null ],
     [ "onRemoteNetworkQuality:state:", "protocol_rcv_meeting_user_event_handler-p.html#aa2b595dfb00d051f99e0654e8661558d", null ],
     [ "onUserJoined:", "protocol_rcv_meeting_user_event_handler-p.html#a110f94908db81f02e5d30396814a8dc4", null ],
